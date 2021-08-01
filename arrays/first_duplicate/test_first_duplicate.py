@@ -1,6 +1,6 @@
 import unittest
 
-from arrays.first_duplicate import FirstDuplicate
+from arrays.first_duplicate.first_duplicate import FirstDuplicate
 
 
 class TestFirstDuplicate(unittest.TestCase):
